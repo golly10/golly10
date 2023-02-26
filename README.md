@@ -7,7 +7,7 @@
 
 <div>
 <h4>What I'm doing?</h4>
-I’m currently working on my knowledge in Data Science stuff. Also, I’m currently learning Machine learning and Deep learning with the help of Coursera courses and specializations. Currently working for a med-tech company. Focusing
+I’m currently working on my knowledge in Data Science stuff. Also, I’m developing my skills in Machine learning and Deep learning with the help of Coursera courses and specializations. Currently working for a med-tech company. Focusing on myself and my future as a Data scientist.
 
 <h4>How to reach me?</h4>
 
