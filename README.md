@@ -11,7 +11,7 @@ I’m currently working on my knowledge in Data Science stuff. Also, I’m devel
 
 <h4>How to reach me?</h4>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-josé-mendez-torrero-283152164/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanjo96mt@gmail.com)
 
 <h4>More about me?</h4>
 
